@@ -3,3 +3,4 @@ Testing Git Capabilities
 Test of the branch_test
 Test of first commit from local to GitHub master
 Second test commit to GitHub master
+Third test commit to GitHub master
